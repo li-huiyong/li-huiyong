@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome 
+I'm Assistant Professor at Kyushu University and research on LA (Learning Analytics), EDM (Educational Data Mining), AIED (Artificial Intelligence in Education), SDL (Self-Directed Learning), and HCI (Human-Computer Interaction). Highly motivated to contribute to AIED community by creating more high-quality open-source AIED services and tools with visionary researchers, developers, educators and learners over the world. 
 
 <!--
 **li-huiyong/li-huiyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
